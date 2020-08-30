@@ -1,4 +1,4 @@
-function parsave (savefile,varargin)
+function parsave(savefile,varargin)
 % parsave v1.0.0 (June 2016).
 % parsave allows to save variables to a .mat-file while in a parfor loop.
 % This is not possible using the regular 'save' command.
